@@ -1,0 +1,124 @@
+﻿ref,field_name,eng,jap,chi
+1,ref,Reference,整理番号,整理番号
+2,field_name,Field Name,フィールド,field name (欄名)
+3,eng,English,英語,英語
+4,jap,Japanese,日本語,日語
+5,vendor_name,Vendor,業者名,供應商
+6,description,Description,詳細,詳細
+7,expense_item_ref,Expense Item Reference,経費明細参照 ,支出項目序號
+8,inv_amt,"Invoice Amount
+(Net Of Discount
+(Before Tax)","請求金額
+(割引前)
+(税引き前)",發票總額（稅前，折扣前）
+9,tax_amt,Tax Amount,消費税額,消費税額
+10,net_amt,Net,純,淨額
+11,customer_name,Customer,顧客名,顧客名稱
+12,income_item_ref,Revenue Item Reference,収益アイテム参照,營收項目序號
+13,trans_type,Transaction Type,取引タイプ,交易類型
+14,trans_type_code,Transaction Type Code,取引タイプコード,交易類型編號
+15,withdrawal_bank,Bank (Withdrawal),銀行（出金）,付款銀行
+16,withdrawn_amt,Amount （Withdrawal),出金,支付金額
+17,deposit_bank,Bank (Deposit),銀行（入金）,存款銀行
+18,deposit_amt,Amount (Deposit),入金,存入金額
+19,vendor_inv_array,-,-,-
+20,vendor_invoice_num,Invoice Number (Vendor),"請求書番号
+（業者）",發票序號（供應商）
+21,pay_amt,"Amount 
+(Payment)",支払金額,支付金額
+22,valid_check_vendor,-,-,-
+23,cust_inv_array,-,-,-
+24,customer_inv_num,Invoice Number (Customer),"請求書番号
+（顧客）",發票序號（銷售）
+25,receipt_amt,"Amount
+(Received)",入金額,收款（銷售）
+26,valid_check_customer,-,-,-
+27,table_name,Table Name,リスト,表列名稱
+28,link_location,Link Location,リンクセル,連接位置
+29,code,Language Code,言語コード,語言編號
+30,tax_code,Tax Filing Code,"整理番号
+（納税申告書）",稅務索引序號
+31,process_type,Processing Type,"タイプ
+（処理）",處理類別
+32,first_settle,"Amount settled
+ (if any)
+on the invoice date","決済金額
+（ある場合）",發票首期款項
+33,invoice_date,"Invoice Date
+(mm/dd/yyyy)","日付
+(mm/dd/yyyy)",發票日期（mm/dd/yyyy)
+34,payment_date,"Payment Date
+(mm/dd/yyyy)","支払期日
+(mm/dd/yyyy)",付款日期（mm/dd/yyyy)
+35,display_name,"Name
+(Displayed)","名
+（表示）",顯示名稱
+36,company_address,Company Address,住所,住所
+37,contact_person,Contact Person,連絡窓口,聯絡人
+38,contact_number,Phone Number,電話番号,聯絡電話
+39,email,Email,Eメール,電郵
+40,approval_date,"Date Added
+(mm/dd/yyyy)","追加日
+(mm/dd/yyyy)",審批日期（mm/dd/yyyy)
+41,inv_num,Invoice Number,請求書番号,發票序號
+42,customer_ref,Customer Ref,"整理番号
+(顧客)",客戶編號
+43,vendor_ref,Vendor Ref,"整理番号
+(業者)",供應商編號
+44,source_lang,Language Code,言語コード,介面語言
+45,balance_due_before,"Balance Due 
+(Before Payment)","残金
+（お支払い前）",結餘（發款前）
+46,balance_due_after,"Balance Due
+(After Payment)","残金
+（後支払い）",結餘（發款後）
+47,bank_num,"Bank Account Number (Eng)
+(Bank Name - Bank Account Number)","銀行口座番号（英語で）
+(銀行名 - 銀行口座番号)",銀行賬戶編號
+48,gl_acct_num,"General Ledger Account
+Number","参照番号
+(総勘定元帳)",總賬對應編號
+49,gl_acct_name,General Ledger Account,"総勘定元帳
+勘定科目",總帳對應賬戶
+50,interbank,"Bank
+(Fund Transfer)","銀行
+(資金移動)",內部轉賬
+51,withdrawal_bank_ref,"Reference
+(Withdrawal Bank)","整理番号
+(出金銀行)",付款銀行編號
+52,deposit_bank_ref,"Reference
+(Deposit Bank)","整理番号
+(入金銀行)",存款銀行編號
+53,withdrawal_bank_acct_eng,"Bank Account Number
+(English Display)","銀行口座番号
+（英語で）",付款銀行編號（英文）
+54,deposit_bank_acct_eng,"Bank Account Number
+(English Display)","銀行口座番号
+（英語で）",存款銀行編號（英文）
+55,trans_ref_wtd,Transaction Reference,取引番号,交易索引序號
+56,trans_ref_dep,Transaction Reference,取引番号,交易索引序號
+57,interbank_dep_error_txt,Please select bank account again,銀行口座をもう一度選択してください,存款交易錯誤提示訊息
+58,error_msg,Warning Message,警告メッセージ,警告提示訊息
+59,chi,Chinese,中国語,繁體中文
+60,language,Select Language,言語を選択,選擇語言
+61,debit_amt,Debit,デビット,借方
+62,credit_amt,Credit,クレジット,貸方
+63,trial_bal_txt,Trial Balance,試算表（しさんひょう）,試算表
+64,inc_stmt_txt,"Income Statement
+(UK: Profit & Loss)","損益計算書
+（そんえきけいさんしょ））",損益表
+65,bal_sht_txt,Balance Sheet,"貸借対照表
+（たいしゃくたいしょうひょう）",資產負債表
+66,Sales_txt,Sales Revenue,"売上高
+（うりあげだか)",銷售額
+67,cogs_txt,Cost Of Sales,"売上原価
+（うりあげげんか)",銷售成本
+68,gross_profit_txt,Gross Profit,"売上総利益
+（うりあげそうりえき）",毛利
+69,oper_inc_txt,Operating Income,"営業利益
+（えいぎょうりえき）",營業收入
+70,gen_admin_txt,General Admin Expense,"販売費および一般管理費
+（はんばいひおよびいっぱんかんりひ）",一般和管理費用
+71,end_bal_before_adj,"Ending Balance
+(Before Adjustment)","期末残高（調整前）
+（きまつざんだか　（ちょうせいまえ））",期末餘額（調整前)

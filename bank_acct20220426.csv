@@ -1,0 +1,5 @@
+﻿ref,bank_num,gl_acct_num,gl_acct_name,withdrawal_bank,deposit_bank,interbank,eng,jap,chi
+1,my_own_cash,1000,Cash and deposits,1000|my_own_cash,1000|my_own_cash,1000|Cash and deposits,my_own_cash,所有者の現金,現金
+2,bmo - acct 123,3260,Due to shareholder(s)/director(s),3260|bmo - acct 123,3260|bmo - acct 123,3260|Due to shareholder(s)/director(s),bmo - acct 123,モントリオール銀行 - acct 123,滿地可銀行 - 戶口123
+3,hsbc - acct 456,30001,Unclassified Deposit,30001|hsbc - acct 456,30001|hsbc - acct 456,30001|Unclassified Deposit,hsbc - acct 456,香港上海銀行 - acct 456,匯豐銀行 - 戶口 456
+4,hsc - acct 123,1000,Cash and deposits,1000|hsc - acct 123,1000|hsc - acct 123,1000|Cash and deposits,hsc - acct 123,hsc - acct 123,hsc 銀行 - 戶口 123

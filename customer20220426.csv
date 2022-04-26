@@ -1,0 +1,4 @@
+﻿ref,customer_name,display_name,approval_date,company_address,contact_person,contact_number,email,eng,jap,chi
+1,a,1 | customer A,11/30/2020,whatever address,whatever person,1234567,email 123,customer A,顧客A,客戶A
+2,b,2 | customer B,43842,whatever address,wat,1357,email 123,customer B,顧客B,客戶B
+3,c,3 | customer C,43873,whatever address,wat,1k445,email 123,customer C,顧客C,客戶C

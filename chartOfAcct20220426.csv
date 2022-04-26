@@ -1,0 +1,20 @@
+﻿ref,tax_code,process_type,eng,jap,chi
+1000,,A,Cash and deposits,現金,現金及存款
+1060,,AR,Accounts Receivable,売掛金,應收
+1740,,P,Machinery and equipment,器具備品,機器及器具
+9060,,P,Salaries and wages,給料,薪金
+8520,,P,Advertising and promotion,広告宣伝費,宣傳
+9200,,P,Travel expenses,旅費交通費,差旅費
+8860,,P,Professional fees,専門人員の料金,專業費用
+8523,,P,Meals and entertainment,接待交際費,娛樂
+9225,,P,Telephone and telecommunications,通信費,電訊費用
+8810,,P,Office expenses,事務所用消耗品費,辦公室雜費
+2620,,AP,Amounts payable and accrued liabilities,買掛金,應付
+8000,,R,Trade sales of goods and services,売上高,一般服務或產品收入
+3260,,A,Due to shareholder(s)/director(s),役員借入金,應收（股東欠款）
+30001,,A,Unclassified Deposit,分類していない（預金）,存款（未分類）
+40000,,ADJ,Adjusting Entries,未処理の為替差,未處理外匯換算
+8230,,R,Other revenue,他の収入,其他收入
+1483,,A,Taxes recoverable,退稅,税金の還付
+2680,,A,Taxes Payable,應課稅,支払うべき税
+9270,,P,Other expenses,他の費用,其他支出

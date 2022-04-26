@@ -1,0 +1,4 @@
+﻿ref,vendor_name,display_name,approval_date,company_address,contact_person,contact_number,email,eng,jap,chi
+1,a,1 | vendor A,11/30/2020,whatever address,whatever person,1234567,email 123,vendor A,ベンダーＡ,供應商A
+2,b,2 | vendor B,43842,whatever address,wat,1357,email 123,vendor B,ベンダーＢ,供應商B
+3,c,3 | vendor C,43873,whatever address,wat,1k445,email 123,vendor C,ベンダーC,供應商C

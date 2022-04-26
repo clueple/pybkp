@@ -1,0 +1,20 @@
+﻿ref,table_name,eng,jap,chi
+1,master,Master Table,マスターテーブル,總表
+2,expense,Vendor Invoice,ベンダー,採購發票
+3,income,Customer Invoice,請求書（顧客）,銷售發票
+4,table,Table Summary,テーブル一覧,工作表列
+5,field,List Of Fields,項目列表,項目列表
+6,vendor,Vendor List,ベンダーリスト,供應商列表
+7,lang,Language Setting,言語設定,語言設定
+8,chartOfAcct,Chart Of Accounts,勘定科目一覧,會計科目表
+9,bank_acct,Bank Account List,銀行口座　リスト,銀行賬戶列表
+10,customer,Customer List,顧客リスト,客戶列表
+11,bank,Fund Transfer,資金の移動,轉賬
+12,payment,Payment (Cash Paid),支払,分期付款（採購發票)
+13,receipt,Receipt (Cash Received),入金,分期收款（銷售發票）
+14,journal,Journal Entry,仕訳（しわけ）,會計分錄
+15,tb,Trial Balance,"試算表
+（しさんひょう）",試算表
+16,pnl,"Income Statement
+(UK: Profit & Loss)","損益計算書
+（そんえきけいさんしょ））",損益表
