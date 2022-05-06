@@ -1,6 +1,6 @@
 ﻿ref,table_name,eng,jap,chi
 1,master,Master Table,マスターテーブル,總表
-2,expense,Vendor Invoice,ベンダー,採購發票
+2,expense,Vendor Invoice,請求書（ベンダー）,採購發票
 3,income,Customer Invoice,請求書（顧客）,銷售發票
 4,table,Table Summary,テーブル一覧,工作表列
 5,field,List Of Fields,項目列表,項目列表
